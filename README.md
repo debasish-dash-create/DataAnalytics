@@ -25,4 +25,4 @@ jupyter notebook amazon_eda.ipynb
 ```
 
 ## Dataset
-[Amazon Product Dataset](https://www.kaggle.com/) — 1,465 rows, 16 columns
+[Amazon Product Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset) — 1,465 rows, 16 columns
